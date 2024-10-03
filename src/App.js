@@ -1,7 +1,11 @@
 import './App.css';
 
 function App() {
-  return;
+  return (
+    <>
+      Con gà
+    </>
+  );
 }
 
 export default App;
